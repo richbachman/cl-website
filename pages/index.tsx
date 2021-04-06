@@ -16,7 +16,7 @@ const YOUTUBE_PLAYLIST_ITEMS_API =
 
 export async function getServerSideProps() {
   const res = await fetch(
-    `${YOUTUBE_PLAYLIST_ITEMS_API}?part=snippet&maxResults=50&playlistId=PL67C_KQwR4TfxXVTjly1CfcegbKMo1jOt&key=${process.env.NEXT_PUBLIC_YOUTUBE_API_KEY}`
+    `${YOUTUBE_PLAYLIST_ITEMS_API}?part=snippet&maxResults=50&playlistId=PL67C_KQwR4TfxXVTjly1CfcegbKMo1jOt&key=${process.env.YOUTUBE_API_KEY}`
   );
   const data = await res.json();
   return {
