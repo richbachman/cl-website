@@ -1,0 +1,17 @@
+{
+  "title": "Dr. Courtney Long",
+  "titleTemplate": "%s | Dr.Courtney Long",
+  "description": "Dr. Courtney Long is an active saxophonist, educator, and clinician, performing regularly in the Denver area as a soloist and with various chamber groups.",
+  "additionalMetaTags": [
+    { "property": "author", "content": "Dr. Courtney Long" }
+  ],
+  "openGraph": {
+    "type": "website",
+    "locale": "en_US",
+    "site_name": "Dr. Courtney Long",
+    "profile": {
+      "firstName": "Dr. Courtney",
+      "lastName": "Long"
+    }
+  }
+}
