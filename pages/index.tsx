@@ -88,14 +88,14 @@ const Home: React.FC<HomeProps> = ({ data }) => {
 
             <Paragraph>
               Dr. Courtney Long is an active saxophonist, educator, and
-              clinician, performing regularly in the Denver area as a soloist
-              and with various chamber groups. She has also played and presented
-              at the North American Saxophone Alliance Biennial and National
-              Conferences several times. Dr. Long&#39;s research areas of
-              interest are post-tonal motivic analysis and its application to
-              agency and narrative theories, performative analysis, and motivic
-              parallelism in post-tonal and Romantic music. You can find her
-              most recent work published in The Saxophone Symposium (Volume 42).
+              clinician, performing as a soloist and with various chamber
+              groups. She has also played and presented at the North American
+              Saxophone Alliance Biennial and National Conferences several
+              times. Dr. Long&#39;s research areas of interest are post-tonal
+              motivic analysis and its application to agency and narrative
+              theories, performative analysis, and motivic parallelism in post-
+              tonal and Romantic music. You can find her most recent work
+              published in The Saxophone Symposium (Volume 42).
             </Paragraph>
             <Paragraph>
               Long holds a Doctor of Arts degree in Music from the University of
@@ -104,20 +104,20 @@ const Home: React.FC<HomeProps> = ({ data }) => {
               her Bachelor of Music degree in Saxophone Performance from Friends
               University in Wichita, KS, and her Master of Music degree in Music
               Theory and Composition from Wichita State University. She has
-              studied saxophone under Lisa Hittle, Jean Lansing, Robert Young,
-              and Andrew Dahlke. Long has played saxophone with the Colorado
-              Music Festival, Fort Collins Symphony Orchestra, Greeley
-              Philharmonic, Wichita Symphony Orchestra, Wichita Wind Ensemble,
-              Delano Wind Ensemble, and has held teaching positions at Bethany
-              College and Friends University. Long currently teaches saxophone
-              at Colorado Christian University in Lakewood, CO. She loves
-              supporting music education at all levels and has served as a
-              clinician and guest artist at several schools, camps, and outreach
-              programs. Long has had compositions premiered by the Friends
-              University Community Orchestra, various chamber groups, and
-              Bethany College&#39;s Theater Department. She enjoys learning and
-              performing all types of music. Dr. Long lives in Wheat Ridge, CO
-              with her husband, Rich, and three dogs.
+              studied saxophone under Andrew Dahlke, Robert Young, Jean Lansing,
+              and Lisa Hittle. Long has played saxophone with the Colorado
+              Symphony, Colorado Music Festival, Fort Collins Symphony
+              Orchestra, Greeley Philharmonic, Wichita Symphony Orchestra, and
+              the Wichita Wind Ensemble, and has previously held teaching
+              positions in both saxophone and music theory at University of
+              Northern Colorado, Colorado Christian University, Friends
+              University, and Bethany College. Dr. Long currently teaches
+              saxophone and music theory at Wichita State University and lives
+              in Wichita, KS with her husband, Rich, and their two basset
+              hounds, Stevie Nicks and Willie Nelson. She loves supporting music
+              education at all levels and has served as a clinician and guest
+              artist at several schools, camps, and outreach programs. She
+              enjoys learning and performing all types of music.
             </Paragraph>
           </Column>
 
