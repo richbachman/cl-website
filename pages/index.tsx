@@ -58,7 +58,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
           <Box marginLeft={['space0', 'space60']}>
             <SiteHeading>Dr. Courtney Long</SiteHeading>
             <SiteSubHeading>
-              Saxophonist, Educator &amp; Clinician
+              Saxophonist, Theorist &amp; Educator
             </SiteSubHeading>
           </Box>
         </Box>
