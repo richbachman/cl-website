@@ -34,7 +34,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
   console.log(data);
   return (
     <>
-      <NextSeo title="Saxophonist, Educator &amp; Clinician" />
+      <NextSeo title="Saxophonist, Theorist &amp; Educator" />
       <Box
         as="main"
         marginTop="space100"
@@ -108,16 +108,19 @@ const Home: React.FC<HomeProps> = ({ data }) => {
               and Lisa Hittle. Long has played saxophone with the Colorado
               Symphony, Colorado Music Festival, Fort Collins Symphony
               Orchestra, Greeley Philharmonic, Wichita Symphony Orchestra, and
-              the Wichita Wind Ensemble, and has previously held teaching
+              the Wichita Wind Symphony, and has previously held teaching
               positions in both saxophone and music theory at University of
               Northern Colorado, Colorado Christian University, Friends
-              University, and Bethany College. Dr. Long currently teaches
-              saxophone and music theory at Wichita State University and lives
-              in Wichita, KS with her husband, Rich, and their two basset
-              hounds, Stevie Nicks and Willie Nelson. She loves supporting music
-              education at all levels and has served as a clinician and guest
-              artist at several schools, camps, and outreach programs. She
-              enjoys learning and performing all types of music.
+              University, and Bethany College.
+            </Paragraph>
+            <Paragraph>
+              Dr. Long currently teaches saxophone and music theory at Wichita
+              State University and lives in Wichita, KS with her husband, Rich,
+              and their three basset hounds, Stevie Nicks, Willie Nelson,
+              Frankie Valli. She loves supporting music education at all levels
+              and has served as a clinician and guest artist at several schools,
+              camps, and outreach programs. She enjoys learning and performing
+              all types of music.
             </Paragraph>
           </Column>
 
