@@ -34,7 +34,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
   console.log(data);
   return (
     <>
-      <NextSeo title="Saxophonist, Theorist &amp; Educator" />
+      <NextSeo title="Saxophonist, Theorist, &amp; Educator" />
       <Box
         as="main"
         marginTop="space100"
@@ -58,7 +58,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
           <Box marginLeft={['space0', 'space60']}>
             <SiteHeading>Dr. Courtney Long</SiteHeading>
             <SiteSubHeading>
-              Saxophonist, Theorist &amp; Educator
+              Saxophonist, Theorist, &amp; Educator
             </SiteSubHeading>
           </Box>
         </Box>
@@ -116,7 +116,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
             <Paragraph>
               Dr. Long currently teaches saxophone and music theory at Wichita
               State University and lives in Wichita, KS with her husband, Rich,
-              and their three basset hounds, Stevie Nicks, Willie Nelson,
+              and their three basset hounds, Stevie Nicks, Willie Nelson, and
               Frankie Valli. She loves supporting music education at all levels
               and has served as a clinician and guest artist at several schools,
               camps, and outreach programs. She enjoys learning and performing
